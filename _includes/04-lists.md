@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+favourite restaurants in Hastings to visit:
+- [ ] bella vista
+- [ ] Two Bulls
+- [ ] The Crown
